@@ -53,7 +53,11 @@
 			<h4>[[login:alternative_logins]]</h4>
 			<ul class="alt-logins">
 				<!-- BEGIN authentication -->
-				<li class="{authentication.name}"><a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}"><i class="fa {authentication.icon} fa-3x"></i></a></li>
+				<li class="{authentication.name}">
+					<a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}">
+						<img src="/bnet-default.png" alt="Login with Battle.net" title="Login with Battle.net"/>
+					</a>
+				</li>
 				<!-- END authentication -->
 			</ul>
 		</div>
