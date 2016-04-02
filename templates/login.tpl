@@ -54,7 +54,7 @@
 			<ul class="alt-logins">
 				<!-- BEGIN authentication -->
 				<li class="{authentication.name}">
-					<a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}">
+					<a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}" class="btn btn-primary btn-lg btn-block">
 						<img src="/images/bnet-default.png" alt="Login with Battle.net" title="Login with Battle.net"/>
 					</a>
 				</li>
