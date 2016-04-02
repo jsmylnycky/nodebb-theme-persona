@@ -55,7 +55,7 @@
 				<!-- BEGIN authentication -->
 				<li class="{authentication.name}">
 					<a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}">
-						<img src="/bnet-default.png" alt="Login with Battle.net" title="Login with Battle.net"/>
+						<img src="/images/bnet-default.png" alt="Login with Battle.net" title="Login with Battle.net"/>
 					</a>
 				</li>
 				<!-- END authentication -->
